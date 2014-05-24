@@ -1,5 +1,0 @@
-example
-=======
-helloo?!
-
-hello again
